@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-void main(){
-	printf("Hello world!!");
-	getchar();
-}
+myfunc(int x, string y='a')
